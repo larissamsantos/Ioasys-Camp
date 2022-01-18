@@ -1,7 +1,7 @@
 **Módulo 3 - Javascript Avançado**
 
 O desafio foi reduzir o número de ifs dentro de uma função onde diversas condições precisam ser atendidas. 
-Foram utilizados os pacotes [readline-sync](https://www.npmjs.com/package/readline-sync) para pedir os inputs do usuário e [lodash](https://www.npmjs.com/package/lodash) para comparação dos objetos Map. Os pacotes podem ser instalados rodando os seguintes comandos no terminal:
+Foram utilizados os pacotes [readline-sync](https://www.npmjs.com/package/readline-sync) para pedir os inputs do usuário e [Lodash](https://www.npmjs.com/package/lodash) para comparação dos objetos Map. Os pacotes podem ser instalados rodando os seguintes comandos no terminal:
 
 ```
 npm install readline-sync
